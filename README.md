@@ -1,6 +1,5 @@
 # Hi there, I'm Abulele Gqabaza 👋
 
-**First-Year Computer Science Student at Varsity College**  
 Aspiring Software Developer and Network Architect. Always curious about learning and exploring new technologies. Open to collaborations & beginner-friendly projects!
 
 ---
